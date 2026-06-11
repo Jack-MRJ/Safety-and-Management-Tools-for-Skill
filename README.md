@@ -51,7 +51,7 @@ urllib3>=1.26.0
 
 1. **克隆仓库**
    ```bash
-   git clone https://github.com/yourname/skill-security-tool.git
+   git clone https://github.com/Jack-MRJ/Safety-and-Management-Tools-for-Skill.git
    cd skill-security-tool
    ```
 
