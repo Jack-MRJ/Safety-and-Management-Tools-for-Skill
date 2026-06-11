@@ -51,7 +51,7 @@ urllib3>=1.26.0
 
 1. **克隆仓库**
    ```bash
-   git clone https://github.com/yourname/skill-security-tool.git
+   git clone https://github.com/Jack-MRJ/Safety-and-Management-Tools-for-Skill.git
    cd skill-security-tool
    ```
 
@@ -62,9 +62,9 @@ urllib3>=1.26.0
 
 3. **运行程序**
    ```bash
-   python skill_manager.py
+   python Safety and Management Tools for Skill.py
    ```
-   或直接双击 `skill_manager.py`（确保 `.py` 文件关联到 Python）。
+   或直接下载可执行程序双击 `Skill.V1.0.exe`。
 
 4. **首次使用**
    - 程序会自动创建 `managed_skills.json` 用于保存管理列表。
